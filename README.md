@@ -107,6 +107,10 @@ export default Slide1_1;
 5~13번 라인,
 16번 라인만 수정하면 슬라이드가 (비교적) 쉽게 연결되도록 만들었습니다!!
 
+### 클로드 예시 프롬프트
+![프롬프트_001](https://github.com/user-attachments/assets/b9b76282-874e-4f63-b8f0-ca2b8eadb79e)
+
+
 ### '구현 결과'
 
 ![KakaoTalk_20240730_152128290](https://github.com/user-attachments/assets/760c471b-6de4-435b-b8ba-2bb981b933f2)
